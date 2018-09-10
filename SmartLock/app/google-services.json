@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "804365041751",
+    "firebase_url": "https://smart-lock-eb15c.firebaseio.com",
+    "project_id": "smart-lock-eb15c",
+    "storage_bucket": "smart-lock-eb15c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804365041751:android:303f2b69ed281f23",
+        "android_client_info": {
+          "package_name": "com.nitinma2.smartlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804365041751-li1o0si1bhj3prte72s6qmm7rcri1iou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXh1bQrOVKk10aNBYxH1mWeqLCE9XVHno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
